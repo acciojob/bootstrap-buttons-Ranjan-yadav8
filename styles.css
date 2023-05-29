@@ -1,2 +1,29 @@
-
+#button-4{
+	background-color:red;
+}
+#button-2{
+	border-color:black;
+}
+#button-3{
+	padding:10px;
+}
+#button-5{
+	background-color:yellow;
+	font-weight:bold;
+	color:black;
+	border:0px
+}
+#button-7{
+background-color:white;
+	color:black;
+	border:0px
+}
+#button-6{
+	color:black;
+	border:0px
+}
+#button-8{
+	background-color:white;
+	border:0px
+}
 /* Your CSS Code here. */
